@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieDesoki</string>
+
+    <string-array name="NavItems">
+        <item>Top Rated</item>
+        <item>Popular</item>
+    </string-array>
+    <string name="action_favourite">Favourites</string>
+    <string name="movie_vote_count">Vote Count</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_vote_average">Rating</string>
+    <string name="movie_overview">Overview</string>
+
+
+
+</resources>
